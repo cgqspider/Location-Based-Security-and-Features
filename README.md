@@ -16,5 +16,7 @@ Use according to the use case how and when to validate?
 <h1>Demo URL:</h1>
 https://cgqspider.github.io/Location-Based-Security-and-Features/
 
+Ref: https://stackoverflow.com/questions/3489460/how-to-get-visitors-location-i-e-country-using-geolocation
+
 Have fun! Happy coding
   
