@@ -8,10 +8,10 @@ This contains the demo of IPDATA.CO
 Simply open the index.html in the browser and it will show all the details of user.
 Use according to the use case how and when to validate?
 <h3>Some of the use cases are below:</h3>
-1. THREAT DETECTOR with proxy, tor etc
-2. automatically Contact +91 detector so that other country phone numbers can be verified.
-3. Change language, currency etc according to the Country
-4. Time zone detector : current time also
+1. THREAT DETECTOR with proxy, tor etc<br>
+2. automatically Contact +91 detector so that other country phone numbers can be verified.<br>
+3. Change language, currency etc according to the Country<br>
+4. Time zone detector : current time also<br>
 
 <h1>Demo URL:</h1>
 https://cgqspider.github.io/Location-Based-Security-and-Features/
