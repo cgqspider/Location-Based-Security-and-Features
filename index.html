@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Location Based Threat Detector</title>
+<script
+  src="https://code.jquery.com/jquery-3.4.1.js"
+  integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+  crossorigin="anonymous"></script>
+</head>
+<body>
+USE CASES:
+1. THREAT DETECTOR with proxy, tor etc<br>
+2. automatically Contact +91 detector so that other country phone numbers can be verified.<br>
+3. Change language, currency etc according to the Country<br>
+4. Time zone detector : current time also
+<pre id="response"></pre>
+
+
+<script>
+$.get("https://api.ipdata.co/?api-key=test", function (response) {
+    $("#response").html(JSON.stringify(response, null, 4));
+}, "jsonp");
+
+</script>
+
+</body>
+</html>
