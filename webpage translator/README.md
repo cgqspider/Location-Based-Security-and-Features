@@ -3,7 +3,7 @@ This is a webpage translator. which can translate whole webpage into any languag
 It can be connected with the Location API like Facebook, Google and other site change their language according to location. Same thing can also be implemented using the Google translate and INFO tracking API.
 <br />
 Demo :
-URL: <br/>
+URL: https://cgqspider.github.io/Location-Based-Security-and-Features/webpage%20translator/ <br/>
 <img src="./transDemo.gif" />
 
 <h3>Ref</h3>
