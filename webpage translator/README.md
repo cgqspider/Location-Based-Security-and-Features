@@ -7,5 +7,6 @@ URL: https://cgqspider.github.io/Location-Based-Security-and-Features/webpage%20
 <img src="./transDemo.gif" />
 
 <h3>Ref</h3>
+Also Use: Translator.js http://www.openxrest.com/translatejs/
 https://www.w3schools.com/howto/tryit.asp?filename=tryhow_google_translate<br>
 https://www.youtube.com/watch?v=nJmcqK-ZGvg&feature=youtu.be
